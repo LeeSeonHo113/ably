@@ -10,7 +10,8 @@
  ```
  
 ![에이블리 UI 구성해보기]!
-<img width="310" alt="Screenshot at Jun 17 12-23-36" src="https://user-images.githubusercontent.com/72597645/174218681-29095110-fe46-4ae1-aa5c-d0d3719cf38b.png">
+![Simulator Screen Shot - iPhone 11 - 2022-06-17 at 12 25 08](https://user-images.githubusercontent.com/72597645/174218793-ec4eb80f-c398-4512-b5dd-bfa1bcfef644.png)
+
 
 ## 📌 사용한 프로덕트
 ```
